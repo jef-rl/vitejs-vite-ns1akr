@@ -1,6 +1,6 @@
 import { LitElement, html, css } from 'lit';
 import { ReactiveElement } from '@lit/reactive-element';
-import { motion } from '@lit/labs/motion';
+import { motion } from '@lit-labs/motion';
 import interact from 'interactjs';
 
 class DraggableGrid extends ReactiveElement {
