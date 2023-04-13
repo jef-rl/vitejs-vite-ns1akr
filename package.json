@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@lit-labs/motion": "1.0.3",
+    "@lit/reactive-element": "1.6.1",
+    "interactjs": "1.10.17",
     "lit": "^2.6.1"
   },
   "devDependencies": {
